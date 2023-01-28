@@ -1,0 +1,29 @@
+{
+  "name": "apidos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polecat25/apidos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polecat25/apidos/issues"
+  },
+  "homepage": "https://github.com/Polecat25/apidos#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
